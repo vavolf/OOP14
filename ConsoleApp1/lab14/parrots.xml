@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parrots>
+  <parrot name="Mike">
+    <color>white</color>
+  </parrot>
+  <parrot name="Bee">
+    <color>red</color>
+  </parrot>
+</parrots>

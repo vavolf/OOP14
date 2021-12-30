@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nameOfOrganization>Магнит</nameOfOrganization>
+  <NameOfOrganization>Магнит</NameOfOrganization>
+  <stamp>true</stamp>
+  <date>
+    <year>2020</year>
+    <month>12</month>
+    <day>12</day>
+    <Year>2020</Year>
+    <Month>12</Month>
+    <Day>12</Day>
+  </date>
+  <IsStamped>true</IsStamped>
+</Document>
